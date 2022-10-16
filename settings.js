@@ -13,9 +13,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -117,7 +117,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'Sukses coy.\n Jan lupa follow instagram saia:https://Instagram.com/yudtya.w\n hehe, Oke Brow~',
+    sukses: 'Sukses coy.\n Jan lupa follow instagram gweh:https://instagram.com/yudtya.w\n hehe, Oke Brow~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
