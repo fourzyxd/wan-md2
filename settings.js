@@ -29,7 +29,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 global.botname = "𝙁𝙤𝙪𝙧𝙯𝙮𝘽𝙤𝙩-𝐌D" //namabot kalian
 global.ownername= "𝙆𝙪𝙧𝙤𝙮𝙖𝙢𝙖" //nama kalian
 global.myweb ="https://instagram.com/yudtya.w" //bebas asal jan hapus
-global.youtube = "-" //bebas asal jan hapus
+global.youtube = "https://instagram.com/yudtya.w" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/yudtya.w" //bebas
 global.email = "kuroyama911@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -48,7 +48,7 @@ global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
-    premium: "100000000",
+    premium: "10000",
     free: 100
 }
 
